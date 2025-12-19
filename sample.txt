@@ -1,0 +1,2 @@
+This is a sample file.
+This is to show how read mode and readline function works.
